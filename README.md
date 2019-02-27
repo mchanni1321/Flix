@@ -19,7 +19,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="https://github.com/mchanni1321/Flix/blob/master/walkthrough1.gif" width=250><br>
+<img src="https://github.com/mchanni1321/Flix/blob/master/walkthrough2.gif" width=400><br>
 
 ### Notes
 Some of the challenges that I faced while building this application involved creating the MoviesAdapter in order to properly display all of the data in their appropriate views.  At one point, I realized that I did not build the constructor properly for the MoviesAdapter since it was missing one of the member variables which was the actual list of movies. Once all the required member variables were passed into the constructor, the MoviesAdapter was able to successfully assist in displaying all of the information regarding the movies.
